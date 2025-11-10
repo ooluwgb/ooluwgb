@@ -31,8 +31,6 @@ I'm **Oluwanifemi Oluwagbemila** (ooluwgb), a Cloud Support Engineer, AI/ML Clou
 *Issued by HashiCorp*  
 **Valid:** Oct 18, 2025 - Oct 18, 2027
 
-</div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb0cc7a0-1031-4b54-b396-392c641cd24f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ## 🛠️ Technologies & Tools
@@ -42,14 +40,14 @@ I'm **Oluwanifemi Oluwagbemila** (ooluwgb), a Cloud Support Engineer, AI/ML Clou
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-
-![ooluwgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ooluwgb&show_icons=true&theme=dark)
-
----
 
 ## 📌 Pinned Projects
 
