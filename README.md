@@ -32,7 +32,7 @@ I'm **Oluwanifemi Oluwagbemila** (ooluwgb), a Cloud Support Engineer, AI/ML Clou
 **Valid:** Oct 18, 2025 - Oct 18, 2027
 
 </div>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb0cc7a0-1031-4b54-b396-392c641cd24f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 ## 🛠️ Technologies & Tools
