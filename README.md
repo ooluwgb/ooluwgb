@@ -20,15 +20,13 @@ I'm **Oluwanifemi Oluwagbemila** (ooluwgb), a Cloud Support Engineer, AI/ML Clou
 <div align="left">
 
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/5d7cde45-b647-43b5-b9b6-781fa4d0afe5)
-
 **[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/5d7cde45-b647-43b5-b9b6-781fa4d0afe5)**  
 *Issued by Amazon Web Services Training and Certification*  
 **Valid:** Nov 7, 2025 - Nov 7, 2028
 
 ---
 
-[![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/340x340/images/3c3f2e9f-457e-4b08-ae67-1e85bb04a6fa/image.png)](https://www.credly.com/badges/cb0cc7a0-1031-4b54-b396-392c641cd24f)
-
+[![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/cb0cc7a0-1031-4b54-b396-392c641cd24f)
 **[HashiCorp Certified: Terraform Authoring and Operations Professional](https://www.credly.com/badges/cb0cc7a0-1031-4b54-b396-392c641cd24f)**  
 *Issued by HashiCorp*  
 **Valid:** Oct 18, 2025 - Oct 18, 2027
